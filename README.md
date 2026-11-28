@@ -1,14 +1,18 @@
 # Foundation Inspector Drone
 
-A small 3-inch quadcopter built to fly into tight spaces, such as crawl spaces and the areas around a building's foundation, and inspect them.
+A small 3-inch quadcopter built to go where people don't want to: the tight, dark spaces under a building's foundation.
 
 > **Status:** In progress. The drone is built, configured and arms, but it does not hover stably yet.
 
+## Why I'm building this
+
+I watched construction workers fixing my home's foundation, and saw that some of them didn't want to go underneath, whether from fear of getting hurt or from claustrophobia. So I'm developing a drone that can go under there for them. The goal is a tool that makes their job safer and easier.
+
 ## Goals
 
-- Fly a small, tough drone into confined spaces around a foundation.
-- Carry a thermal camera and a Raspberry Pi Zero to inspect for problems.
-- Add GPS so findings can be tied to a location.
+- Fly a small, tough drone into crawl spaces and the confined areas around a foundation, so workers don't have to.
+- Carry a thermal camera and a Raspberry Pi Zero to inspect what's down there.
+- Eventually map out underground spaces, with GPS to tie findings to a location.
 - Keep parts cheap and easy to replace, since crashes in tight spaces are likely.
 
 ## Hardware
@@ -48,6 +52,7 @@ Each milestone is published as a [release](https://github.com/ameyas2021-ops/Fou
 2. Test the new idle value outdoors, with props on, in Angle mode.
 3. Get a stable hover.
 4. Add the thermal camera, Raspberry Pi Zero and GPS.
+5. Work toward mapping underground spaces.
 
 ## Credits
 
