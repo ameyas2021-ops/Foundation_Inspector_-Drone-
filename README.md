@@ -6,7 +6,7 @@ A small 3-inch quadcopter built to go where people don't want to: the tight, dar
 
 ## Why I'm building this
 
-I watched construction workers fixing my home's foundation, and saw that some of them didn't want to go underneath, whether from fear of getting hurt or from claustrophobia. So I'm developing a drone that can go under there for them. The goal is a tool that makes their job safer and easier.
+I watched construction workers fixing my home's foundation, and saw that some struggled to go underneath. This led me to begin development on a drone that can go into crawlspaces for them. The goal is a tool that makes their job safer and easier.
 
 ## Goals
 
